@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Gadoskey
+- 👋 Hey there, I’m @Gadoskey
 - 👀 I’m interested in ...learning 
 - 🌱 I’m currently learning ...software engineering
 - 💞️ I’m looking to collaborate on ... everyone 
