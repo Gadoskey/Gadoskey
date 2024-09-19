@@ -1,7 +1,7 @@
 - 👋 Hey there, I’m Yusuf Mustapha Opeyemi
 - 👀 Aspiring Software Enginner, Full-Stack Web Developer & Customer Relations Officer
 - 🌱 I’m also a Technical Writer 
-- 💞️ I’m looking to keep learning and collaborate with everyone 
+- 💞️ I’m always learning and i'm looking forward to collaborate with everyone 
 - 📫 You can mail me @ mustopha.yusufope@gmail.com or WhatsApp me on +2348181803981 WhatsApp
 
 <!---
