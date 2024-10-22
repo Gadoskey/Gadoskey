@@ -1,8 +1,8 @@
-- 👋 Hey there, I’m Yusuf Mustapha Opeyemi
+- 👋 Hey there, I’m Yusuf Mustapha Opeyemi. Gadoskey for fun
 - 👀 Aspiring Software Enginner, Full-Stack Web Developer & Customer Relations Officer
 - 🌱 I’m also a Technical Writer 
-- 💞️ I’m always learning and i'm looking forward to collaborate with everyone 
-- 📫 You can mail me @ mustopha.yusufope@gmail.com or WhatsApp me on +2348181803981 WhatsApp
+- 💞️ I'm looking forward to collaborate with everyone 
+- 📫 You can mail me mustopha.yusufope@gmail.com or WhatsApp me on +2348181803981
 
 <!---
 Gadoskey/Gadoskey is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
